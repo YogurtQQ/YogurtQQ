@@ -8,4 +8,4 @@
 - C/C++, Go, Python, Shell
 - Linux
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dark7void&show_icons=true&locale=en&layout=compact" alt="dark7void" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dark7void&show_icons=true&locale=en&layout=compact&theme=dark" alt="dark7void" /></p>
