@@ -13,10 +13,13 @@ My personal post-install for the Cinnamon Artix distro. It refreshes the keyring
 Small script that checks for Bluetooth pairing, and connects to the MAC of a headset. I did it because my last distro didn't automaticly connect to the paired headsets, for some reason.
 ### 🔐 [Crypto](https://github.com/dark7void/Crypto)
 Toys to play with hashes, keys and others. I don't know if it's efficient, it's just for personal recreation. Also I may save other cryptography related programs in this repository.
+### 👨‍💻 [Scripts](https://github.com/dark7void/Scripts)
+My personal scripts.
+
 ## Using...
 - C/C++, Go, Python, Shell
 - Linux (Artix, s6, Cinnamon with Mint icons)
-- VSCode, micro, gedit, not vim
+- Visual Studio Code, micro, not vim
 - AMD Ryzen 5 4600G, TU116 Geforce GTX 1650 SUPER
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dark7void&show_icons=true&locale=en&layout=compact&theme=dark" alt="dark7void" /></p>
