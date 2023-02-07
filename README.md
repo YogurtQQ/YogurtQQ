@@ -8,17 +8,16 @@ A simple tool for saving short text, URLs, or else, for terminal and GUI.
 ### 🐧 [Auto-Artix](https://github.com/dark7void/Auto-Artix)
 53 sloc written in bash.  
 My personal post-install for the Cinnamon Artix distro. It refreshes the keyrings and installs programs and config. You wouldn't be able to use the distro if you don't use it, it's very annoying.
-### 🎧 [Auto-Bluetooth](https://github.com/dark7void/Auto-bluetooth)
-\>10 sloc written in several languages.  
-Small script that checks for Bluetooth pairing, and connects to the MAC of a headset. I did it because my last distro didn't automaticly connect to the paired headsets, for some reason.
 ### 🔐 [Crypto](https://github.com/dark7void/Crypto)
-Toys to play with hashes, keys and others. I don't know if it's efficient, it's just for personal recreation. Also I may save other cryptography related programs in this repository.
+Recreational programs to play with cryptography and math. It's not meant to be efficient code, it's just for personal recreation. Also I may save other cryptography related programs in this repository.
+### 🎧 [Auto-Bluetooth](https://github.com/dark7void/Auto-bluetooth)
+Small script that checks for Bluetooth pairing, and connects to the MAC of a headset. I did it because my last distro didn't automaticly connect to the paired headsets, for some reason.
 ### 👨‍💻 [Scripts](https://github.com/dark7void/Scripts)
 My personal scripts.
 
 ## Using...
 - C/C++, Go, Python, Shell
-- Linux (Artix, s6, Cinnamon with Mint icons)
+- Linux (Artix, s6, XFCE4 with Bluecurve8 icons)
 - Visual Studio Code, micro, not vim
 - AMD Ryzen 5 4600G, TU116 Geforce GTX 1650 SUPER
 
