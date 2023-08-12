@@ -15,9 +15,9 @@ Small script that checks for Bluetooth pairing, and connects to the MAC of a hea
 My personal scripts.
 
 ## Using...
-- C/C++, Go, Python, Shell
-- Linux (Artix, s6, XFCE4 with Bluecurve8 icons)
-- Visual Studio Code, micro, not vim
+- Go, Python, C/C++, Shell
+- Windows 11
+- Visual Studio Code
 - AMD Ryzen 5 4600G, TU116 Geforce GTX 1650 SUPER
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=treel0ver&show_icons=true&locale=en&layout=compact&theme=dark" alt="treel0ver" /></p>
