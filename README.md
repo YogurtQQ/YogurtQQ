@@ -1,5 +1,5 @@
 ## My projects
-### ⌨ [Type](https://github.com/treel0ver/Type)  
+### 💻 [Type](https://github.com/treel0ver/Type)  
 1443 sloc written in [Go](https://github.com/golang/go).  
 Discord bot to measure your typing speed at a keyboard. Not something I would recommend, but some Discord bots like this were very popular in some servers. I don't use Discord anymore, nor I develop it.
 ### 🔐 [Password Manager (passman)](https://github.com/treel0ver/passman)
