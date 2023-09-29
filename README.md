@@ -3,8 +3,11 @@
 1443 sloc written in [Go](https://github.com/golang/go).  
 Discord bot to measure your typing speed at a keyboard. Not something I would recommend, but some Discord bots like this were very popular in some servers. I don't use Discord anymore, nor I develop it.
 ### 🔐 [Password Manager (passman)](https://github.com/treel0ver/passman)
-221 sloc written in [Python](https://github.com/python)
+221 sloc written in [Python](https://github.com/python).  
 Simpler password manager possible: uses Argon2id and AES by default; passwords not displayed and copied temporarily to clipboard.
+### 🔷 [Random Geometry Video](https://github.com/treel0ver/random-geometry-video).
+Written in the worst language in history, [C Plus Plus](https://isocpp.org/).  
+Generate random geometric shapes in a video
 ### 🎧 [Auto-Bluetooth](https://github.com/treel0ver/Auto-bluetooth)
 Small script that checks for Bluetooth pairing, and connects to the MAC of a headset. I did it because my last distro didn't automaticly connect to the paired headsets, for some reason.
 ### 📑 [Bookmarks](https://github.com/treel0ver/Bookmarks)
